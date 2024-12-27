@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookFinderApp</string>
+    <string name="enter_book_name">Enter book name</string>
+    <string name="find_book">Find Book</string>
+    <string name="loading">Loading…</string>
+    <string name="back_to_main_page">Back to main page</string>
+</resources>
